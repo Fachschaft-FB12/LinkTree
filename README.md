@@ -1,7 +1,5 @@
 # LinkTree Fachschaft
-Feel free to add some missing links!
-
-[LinkTree](https://fachschaft-fb12.github.io/)
+Feel free to add missing links!
 
 # How to add new content?
 
