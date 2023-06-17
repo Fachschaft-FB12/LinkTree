@@ -15,3 +15,7 @@ Feel free to add missing links!
 ```
 3. Push to a branch and create a Pull-Request
 4. If the Pull-Request is approved the new content is deployed automatically
+
+## Author
+Robin Schumacher - info@robin-schumacher.com<br>
+Please feel free to contact me if you need any information!
